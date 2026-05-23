@@ -1,8 +1,12 @@
 # Advanced-Detection-of-Malicious-URLs-using-Random-Forest-and-Machine-Learning
 A Machine Learning-based cybersecurity project focused on detecting malicious and phishing URLs using a Random Forest Classifier. This project analyzes lexical, structural, and reputation-based URL features to accurately distinguish between legitimate and phishing websites.
+
+
 📌 Project Overview
 Phishing attacks remain one of the most common cyber threats on the internet. This project implements a robust phishing URL detection system using Machine Learning techniques to improve cybersecurity defenses.
 The model was trained on a dataset containing 88 URL-related features and achieved excellent performance metrics with high accuracy, precision, and recall.
+
+
 🚀 Features
 Phishing URL Detection using Random Forest
 Feature Importance Analysis
@@ -10,6 +14,8 @@ Confusion Matrix Visualization
 High Accuracy Prediction Model
 Data Preprocessing and Cleaning
 Cybersecurity-focused ML implementation
+
+
 🛠️ Technologies Used
 Python
 Scikit-learn
@@ -18,6 +24,8 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+
+
 📊 Model Performance
 Accuracy: 98.35%
 Precision: 98.26%
@@ -31,10 +39,13 @@ nb_hyperlinks
 web_traffic
 domain_age
 phish_hints
+
+
 📈 Visualizations Included
 Feature Importance Graph
 Confusion Matrix Heatmap
 Model Evaluation Metrics
+
 phishing-url-detection/
 │
 ├── code.ipynb
